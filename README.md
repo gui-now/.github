@@ -1,16 +1,12 @@
 # GUI
 
 **HTML in, URL out.** One POST call returns a live, shareable page — real-time sync, interactive components, no build step, no account.
-
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/d2919cf7-e0c0-411e-a07d-86510e66de79" />
-  
-
   
 Built for agents. An assistant that would otherwise dump a wall of HTML into a chat window can hand you a link instead.
 
 **[gui.now](https://gui.now)** · [API reference](https://gui.now/docs) · [llms.txt](https://gui.now/docs/llms.txt)
 
----
+<img width="1200" height="480" alt="image" src="https://github.com/user-attachments/assets/179ef1b0-7274-4250-bf36-9757b685fe91" />
 
 ## Try it
 
